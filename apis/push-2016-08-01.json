@@ -1,6 +1,6 @@
 {
   "format": "pop",
-  "apiVersion": "2019-04-01", 
+  "apiVersion": "2016-08-01", 
   "checksumFormat": "md5",
   "endpointPrefix": "push", 
   "serviceAbbreviation": "PUSH", 
